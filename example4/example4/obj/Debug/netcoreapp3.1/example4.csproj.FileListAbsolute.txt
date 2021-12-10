@@ -1,0 +1,13 @@
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example4/example4/bin/Debug/netcoreapp3.1/example4.deps.json
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example4/example4/bin/Debug/netcoreapp3.1/example4.runtimeconfig.json
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example4/example4/bin/Debug/netcoreapp3.1/example4.runtimeconfig.dev.json
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example4/example4/bin/Debug/netcoreapp3.1/example4.dll
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example4/example4/bin/Debug/netcoreapp3.1/example4.pdb
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example4/example4/obj/Debug/netcoreapp3.1/example4.csproj.AssemblyReference.cache
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example4/example4/obj/Debug/netcoreapp3.1/example4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example4/example4/obj/Debug/netcoreapp3.1/example4.AssemblyInfoInputs.cache
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example4/example4/obj/Debug/netcoreapp3.1/example4.AssemblyInfo.cs
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example4/example4/obj/Debug/netcoreapp3.1/example4.csproj.CoreCompileInputs.cache
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example4/example4/obj/Debug/netcoreapp3.1/example4.dll
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example4/example4/obj/Debug/netcoreapp3.1/example4.pdb
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example4/example4/obj/Debug/netcoreapp3.1/example4.genruntimeconfig.cache
