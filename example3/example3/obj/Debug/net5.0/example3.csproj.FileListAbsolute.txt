@@ -1,0 +1,15 @@
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example3/example3/obj/Debug/net5.0/example3.csproj.AssemblyReference.cache
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example3/example3/obj/Debug/net5.0/example3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example3/example3/obj/Debug/net5.0/example3.AssemblyInfoInputs.cache
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example3/example3/obj/Debug/net5.0/example3.AssemblyInfo.cs
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example3/example3/obj/Debug/net5.0/example3.csproj.CoreCompileInputs.cache
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example3/example3/bin/Debug/net5.0/example3.deps.json
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example3/example3/bin/Debug/net5.0/example3.runtimeconfig.json
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example3/example3/bin/Debug/net5.0/example3.runtimeconfig.dev.json
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example3/example3/bin/Debug/net5.0/example3.dll
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example3/example3/bin/Debug/net5.0/ref/example3.dll
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example3/example3/bin/Debug/net5.0/example3.pdb
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example3/example3/obj/Debug/net5.0/example3.dll
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example3/example3/obj/Debug/net5.0/ref/example3.dll
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example3/example3/obj/Debug/net5.0/example3.pdb
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example3/example3/obj/Debug/net5.0/example3.genruntimeconfig.cache
