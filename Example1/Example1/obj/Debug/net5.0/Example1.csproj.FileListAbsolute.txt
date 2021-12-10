@@ -1,0 +1,15 @@
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/Example1/Example1/bin/Debug/net5.0/Example1.deps.json
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/Example1/Example1/bin/Debug/net5.0/Example1.runtimeconfig.json
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/Example1/Example1/bin/Debug/net5.0/Example1.runtimeconfig.dev.json
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/Example1/Example1/bin/Debug/net5.0/Example1.dll
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/Example1/Example1/bin/Debug/net5.0/ref/Example1.dll
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/Example1/Example1/bin/Debug/net5.0/Example1.pdb
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/Example1/Example1/obj/Debug/net5.0/Example1.csproj.AssemblyReference.cache
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/Example1/Example1/obj/Debug/net5.0/Example1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/Example1/Example1/obj/Debug/net5.0/Example1.AssemblyInfoInputs.cache
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/Example1/Example1/obj/Debug/net5.0/Example1.AssemblyInfo.cs
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/Example1/Example1/obj/Debug/net5.0/Example1.csproj.CoreCompileInputs.cache
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/Example1/Example1/obj/Debug/net5.0/Example1.dll
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/Example1/Example1/obj/Debug/net5.0/ref/Example1.dll
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/Example1/Example1/obj/Debug/net5.0/Example1.pdb
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/Example1/Example1/obj/Debug/net5.0/Example1.genruntimeconfig.cache
