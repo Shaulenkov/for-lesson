@@ -1,0 +1,14 @@
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example2/example2/bin/Release/net5.0/example2.deps.json
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example2/example2/bin/Release/net5.0/example2.runtimeconfig.json
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example2/example2/bin/Release/net5.0/example2.runtimeconfig.dev.json
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example2/example2/bin/Release/net5.0/example2.dll
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example2/example2/bin/Release/net5.0/ref/example2.dll
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example2/example2/bin/Release/net5.0/example2.pdb
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example2/example2/obj/Release/net5.0/example2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example2/example2/obj/Release/net5.0/example2.AssemblyInfoInputs.cache
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example2/example2/obj/Release/net5.0/example2.AssemblyInfo.cs
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example2/example2/obj/Release/net5.0/example2.csproj.CoreCompileInputs.cache
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example2/example2/obj/Release/net5.0/example2.dll
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example2/example2/obj/Release/net5.0/ref/example2.dll
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example2/example2/obj/Release/net5.0/example2.pdb
+/Users/aleksejsaulenkov/Desktop/GB/Lesson1/example2/example2/obj/Release/net5.0/example2.genruntimeconfig.cache
